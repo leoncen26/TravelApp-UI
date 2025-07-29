@@ -1,6 +1,6 @@
 # 🏔️ TravelApp UI
 
-TravelApp UI adalah Sebuah aplikasi android frontend sederhana yang dibuat menggunakan Kotlin dan Jetpack Compose untuk melihat berbagai destinasi wisata. Aplikasi ini menampilkan informasi tentang tempat wisata seperti nama, lokasi serta deskripsi dari destinasi. Projek ini adalah project mandiri yang menggunakan data dummy.
+TravelApp UI adalah Sebuah aplikasi android frontend sederhana yang dibuat menggunakan Kotlin dan Jetpack Compose untuk melihat berbagai destinasi wisata. Aplikasi ini menampilkan informasi tentang tempat wisata seperti nama, lokasi serta deskripsi dari destinasi. Aplikasi ini adalah project mandiri yang menggunakan data dummy.
 
 
 ---
