@@ -13,6 +13,17 @@ TravelApp UI adalah Sebuah aplikasi android frontend sederhana yang dibuat mengg
 - Navigasi antar halaman menggunakan Jetpack Navigation
 - UI elegan dan responsif menggunakan Jetpack Compose
 
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Navigation](https://img.shields.io/badge/Jetpack_Navigation-34A853?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
 ## 🖼️ Tangkapan Layar
 | Home Page | Detail Page |
 |----------------|--------------------|
